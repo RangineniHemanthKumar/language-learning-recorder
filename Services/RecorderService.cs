@@ -126,9 +126,9 @@ public class RecorderService : IDisposable
 
             string buttonIcon = e.Button switch
             {
-                MouseButton.Left => "🖱️",
-                MouseButton.Right => "🖱️",
-                MouseButton.Middle => "🖱️",
+                MouseButton.Left => "🖱️ L",
+                MouseButton.Right => "🖱️ R",
+                MouseButton.Middle => "🖱️ M",
                 _ => "🖱️"
             };
 
