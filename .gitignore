@@ -1,0 +1,18 @@
+# Build results
+bin/
+obj/
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vscode/
+*.rsuser
+*.userprefs
+
+# Session files (user data)
+Sessions/
